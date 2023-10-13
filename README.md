@@ -17,7 +17,7 @@ Although you'll see some negative `\hspace{}` and `\vspace{}` here and there to 
 Having said that...
 
 ## Request
-This template can be improved in many ways, from code quality to its visual design. If you make a fork with your own ideas, please be kind and share your version back on Overleaf, as a way to thank the community.
+This template can be improved in many ways, from code quality to its visual design. If you make a fork with your own ideas, please be kind and share your version back on [Overleaf](https://www.overleaf.com/), where I drew most of my inspiration from, as a way to thank the community.
 
 I hope this template will make your job search successful!
 
