@@ -1,6 +1,16 @@
 # Einstein CV Template
-## How to write your CV with this template
-This template requires [LaTeX](https://www.latex-project.org/). IF you don't know what this means, then you should probably not invest your time learning it now[^1].
+## TL;DR
+This template requires LaTeX[^1].
+
+With very little pain, it should let you...
+* pick the colors of your liking
+* remove/change the icons
+* resize the header/contact band/page columns as you see fit
+* move sections around
+
+## Example
+Take a look at [example.pdf](example.pdf) and decide whether this template seems a good starting point for you.
+![JPG screenshot of the PDF](example.jpg)
 
 ## How to customize the CV to your taste
 ### Colors
@@ -23,4 +33,4 @@ I hope this template will make your job search successful!
 
 ML
 
-[^1]: Still, if you are new to LaTeX and want to give it a try, I recommend using [Overleaf](https://www.overleaf.com) with a free plan. This CV template is available in [Overleaf's public gallery](https://www.overleaf.com/latex/templates?q=CV+einstein) among many other templates I drew inspiration from.
+[^1]: If you don't know what LaTeX is, then you should probably not invest your time learning it now in the middle of your job search. However, if want to give it a try, I recommend using [Overleaf](https://www.overleaf.com) which offers a very decent user experience even with their free plan. Actually, this CV template is available in [Overleaf's public gallery](https://www.overleaf.com/latex/templates?q=CV+einstein) among many other templates I drew inspiration from.
