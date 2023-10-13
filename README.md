@@ -9,7 +9,8 @@ With very little pain, it should let you...
 * move sections around
 * write your content on multiple pages[^2]
 
-**Important warning**: the layout was optimized for screenview only, i.e. it comes with no page margins. If printed, the absence of margins will mess everything. You have been warned.
+## Important warning
+The layout was optimized for screenview only, i.e. **it comes with no page margins**. If printed, the absence of margins will mess everything. You have been warned.
 
 ## Example
 Take a look at the samples placed in [examples/](examples/) and decide whether this template is a good starting point for you or not.
