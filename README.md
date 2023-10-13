@@ -7,6 +7,7 @@ With very little pain, it should let you...
 * remove/change the icons
 * resize the header/contact band/page columns as you see fit
 * move sections around
+* write your content on multiple pages[^2]
 
 ## Example
 Take a look at [example.pdf](example.pdf) and decide whether this template seems a good starting point for you.
@@ -34,3 +35,4 @@ I hope this template will make your job search successful!
 ML
 
 [^1]: If you don't know what LaTeX is, then you should probably not invest your time learning it now in the middle of your job search. However, if want to give it a try, I recommend using [Overleaf](https://www.overleaf.com) which offers a very decent user experience even with their free plan. Actually, this CV template is available in [Overleaf's public gallery](https://www.overleaf.com/latex/templates?q=CV+einstein) among many other templates I drew inspiration from.
+[^2]: You would be surprised how many popular templates break as soon as you need your CV to be 2 pages or more.
