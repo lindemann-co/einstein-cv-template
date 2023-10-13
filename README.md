@@ -35,7 +35,10 @@ Having said that...
 ## Request
 This template can be improved in many ways, from code quality to visual design. If you make a fork with your own ideas, please be kind and share your version back on [Overleaf](https://www.overleaf.com/), where I drew most of my inspiration from, as a way to thank the community.
 
-I hope this template will make your job search successful!
+## Last words
+The template was made colorful and "visual" on purpose. If you are looking for less exotic designs, [Alta CV templates](https://www.overleaf.com/latex/templates?q=alta+cv) may be good options.
+
+Whatever your choice, I wish a successful job search!
 
 ML
 
