@@ -4,7 +4,8 @@ This template requires [LaTeX](https://www.latex-project.org/). IF you don't kno
 
 ## How to customize the CV to your taste
 ### Colors
-To start with, I recommend you chose a color set at your liking. It all happens in [cv_einstein.cls](cv_einstein.cls). Trying different hues, saturations and brightnesses should be pretty easy.
+To start with, I recommend you chose a color set at your liking. It all happens in [cv_einstein.cls](cv_einstein.cls). Thanks to tools such as [HSB Color Picker](https://codepen.io/HunorMarton/details/eWvewo) finding a suitable hue, saturation and brightness should be pretty easy.
+
 ### Icons
 All icons come from Font Awesome for LaTeX, whose documentation is available at [doc/fontawesome.pdf](doc/fontawesome.pdf).
 
