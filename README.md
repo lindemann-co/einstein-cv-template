@@ -3,10 +3,10 @@
 This template requires [LaTeX](https://www.latex-project.org/). IF you don't know what this means, then you should probably not invest your time learning it now[^1].
 
 ## How to customize the CV to your taste
+### Colors
 To start with, I recommend you chose a color set at your liking. It all happens in [cv_einstein.cls](cv_einstein.cls). Trying different hues, saturations and brightnesses should be pretty easy.
-
+### Icons
 All icons come from Font Awesome for LaTeX, whose documentation is available at [doc/fontawesome.pdf](doc/fontawesome.pdf).
-
 
 ## Request
 This template can be improved in many ways, from code quality to its visual design. If you make a fork with your own ideas, please be kind and share your version back on Overleaf, as a way to thank the community.
