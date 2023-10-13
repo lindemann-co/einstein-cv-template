@@ -18,20 +18,22 @@ Take a look at the samples placed in [examples/](examples/) and decide whether t
 
 ## How to customize the CV to your taste
 ### Colors
-To start with, you'll most certainly want to chose different colors for the backgrounds (header, contact band and left column). It all happens in [cv_einstein.cls](cv_einstein.cls). Thanks to tools such as [HSB Color Picker](https://codepen.io/HunorMarton/details/eWvewo) finding a suitable hue, saturation and brightness should be pretty easy. The only caveat is that the template takes hue values between [0;1] while most online color pickers display hues in [0; 255] or [0; 360] ranges. You'll have to do some maths.
+You'll most certainly want to chose different colors for the header, contact band and left column. To do so, open [cv_einstein.cls](cv_einstein.cls).
+
+Tools such as [HSB Color Picker](https://codepen.io/HunorMarton/details/eWvewo) will help you find a suitable hue, saturation and brightness. The only caveat is that the template takes hue values between [0;1] while most online color pickers display hues in [0; 255] or [0; 360] ranges. You'll have to do some maths.
 
 ### Icons
 All icons come from Font Awesome for LaTeX, whose documentation is available at [doc/fontawesome.pdf](doc/fontawesome.pdf).
 
 ### Layout
-Rearranging the layout and the visual elements should also be pretty straightforward. If you experience any problem, as the template doesn't use any fancy package beyond [paracol](https://www.ctan.org/pkg/paracol) and [tikz](https://tikz.net/).
+Rearranging the layout and the visual elements should also be pretty straightforward, as the template doesn't use any fancy package beyond [paracol](https://www.ctan.org/pkg/paracol) and [tikz](https://tikz.net/).
 
-Although you'll see some negative `\hspace{}` and `\vspace{}` here and there to keep things aligned, resizing and moving things around shouldn't give you any headache.
+You'll see some negative `\hspace{}` and `\vspace{}` here and there to keep things aligned, but resizing and moving things around shouldn't give you headaches.
 
 Having said that...
 
 ## Request
-This template can be improved in many ways, from code quality to its visual design. If you make a fork with your own ideas, please be kind and share your version back on [Overleaf](https://www.overleaf.com/), where I drew most of my inspiration from, as a way to thank the community.
+This template can be improved in many ways, from code quality to visual design. If you make a fork with your own ideas, please be kind and share your version back on [Overleaf](https://www.overleaf.com/), where I drew most of my inspiration from, as a way to thank the community.
 
 I hope this template will make your job search successful!
 
