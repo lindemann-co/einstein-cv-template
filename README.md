@@ -9,7 +9,7 @@ With very little pain, it should let you...
 * move sections around
 * write your content on multiple pages[^2]
 
-Caveat: the layout was optimized for screenview only, i.e. paper margins are not enforced. If printed, the absence of margins will mess everything. You have been warned.
+**Important warning**: the layout was optimized for screenview only, i.e. it comes with no page margins. If printed, the absence of margins will mess everything. You have been warned.
 
 ## Example
 Take a look at [example.pdf](example.pdf) and decide whether this template seems a good starting point for you.
