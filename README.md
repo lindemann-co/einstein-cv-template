@@ -2,7 +2,7 @@
 ## How to write your CV with this template
 This template requires [LaTeX](https://www.latex-project.org/). IF you don't know what this means, then you should probably not invest your time learning it now[^1].
 
-## How to customize the CV according to your taste
+## How to customize the CV to your taste
 To start with, I recommend you chose a color set at your liking. It all happens in [cv-einstein.cls](cv-einstein.cls). Trying different hues, saturations and brightnesses should be pretty easy.
 
 All icons come from Font Awesome for LaTeX, whose documentation is available in [doc/](doc).
