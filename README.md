@@ -9,7 +9,7 @@ To start with, I recommend you chose a color set at your liking. It all happens 
 ### Icons
 All icons come from Font Awesome for LaTeX, whose documentation is available at [doc/fontawesome.pdf](doc/fontawesome.pdf).
 
-## Layout
+### Layout
 Rearranging the layout and the visual elements should also be pretty straightforward. If you experience any problem, as the template doesn't use any fancy package beyond [paracol](https://www.ctan.org/pkg/paracol) and [tikz](https://tikz.net/).
 
 Although you'll see some negative `\hspace{}` and `\vspace{}` here and there to keep things aligned, resizing and moving things around shouldn't give you any headache.
