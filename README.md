@@ -38,7 +38,7 @@ This template can be improved in many ways, from code quality to visual design. 
 ## Last words
 The template was made colorful and "visual" on purpose. If you are looking for less exotic designs, [Alta CV templates](https://www.overleaf.com/latex/templates?q=alta+cv) may be good options.
 
-Whatever your choice, I wish a successful job search!
+Whatever your choice, I wish you a successful job search!
 
 ML
 
