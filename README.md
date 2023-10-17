@@ -42,5 +42,5 @@ Whatever your choice, I wish a successful job search!
 
 ML
 
-[^1]: If you don't know what LaTeX is, then you should probably not invest your time learning it now in the middle of your job search. However, if want to give it a try, I recommend using [Overleaf](https://www.overleaf.com) which offers a very decent user experience even with their free plan. Actually, this CV template is available in [Overleaf's public gallery](https://www.overleaf.com/latex/templates?q=CV+einstein) among many other templates I drew inspiration from.
+[^1]: If you don't know what LaTeX is, then you should probably not invest your time learning it now in the middle of your job search. However, if want to give it a try, I recommend using [Overleaf](https://www.overleaf.com) which offers a very decent user experience even with their free plan. Actually, this CV template is available in [Overleaf's public gallery](https://www.overleaf.com/latex/templates/einsteins-cv/dqstkjsystrm) among many other templates I drew inspiration from.
 [^2]: You would be surprised how many popular templates break as soon as you need your CV to be 2 pages or more.
